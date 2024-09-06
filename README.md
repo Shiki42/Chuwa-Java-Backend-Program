@@ -11,7 +11,7 @@ Markdown supports 6 levels of headers.
 #### Header 4
 ##### Header 5
 ###### Header 6
-
+```
 ## 2. Emphasis
 
 Bold: **text** or __text__
